@@ -19,7 +19,7 @@ The purpose of this repository is to demonstrate proficiency in solving coding c
 If you'd like to contribute to this repository, follow these steps:
 
 1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
+2. Create a new branch for your new challenge or solution.
 3. Implement your changes and test thoroughly.
 4. Submit a pull request with a clear description of your changes.
 

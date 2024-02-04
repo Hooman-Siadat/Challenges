@@ -48,7 +48,6 @@ def is_leap(year):
 
 year = int(input('Enter a year in YYYY format:'))
 
-print(f'{year} is a leap year!') if is_leap(
-    year) else print(f'{year} is not a leap year!')
+print(f'{year} is a leap year!') if is_leap(year) else print(f'{year} is not a leap year!')
 
 ```

@@ -20,8 +20,9 @@ If you'd like to contribute to this repository, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your new challenge or solution.
-3. Implement your changes and test thoroughly.
-4. Submit a pull request with a clear description of your changes.
+3. Use the challenge_template.md for consistency purposes.
+4. Implement your changes and test thoroughly.
+5. Submit a pull request with a clear description of your changes.
 
 ## License
 

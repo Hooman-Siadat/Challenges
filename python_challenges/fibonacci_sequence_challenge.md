@@ -3,7 +3,7 @@
 
 Implement a recursive function to generate the nth term of the Fibonacci sequence. The Fibonacci sequence starts with 0 and 1, and each subsequent term is the sum of the two preceding terms.
 
-## Task
+## Test Cases
 
 1- Test Case 1: Fibonacci of 0
 

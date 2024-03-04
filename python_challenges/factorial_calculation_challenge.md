@@ -1,8 +1,8 @@
 # Factorial Calculation Challenge
 
 Write a recursive function to calculate the factorial of a non-negative integer n, denoted as n!. The factorial of n is the product of all positive integers less than or equal to n.
----
 
+---
 ## Python Solution
 ```python
 def fact(n):

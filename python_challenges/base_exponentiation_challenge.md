@@ -3,7 +3,7 @@
 
 Write a recursive function to calculate the exponentiation of a base `b` raised to a non-negative integer exponent `e`. For example, `power(2, 3)` should return `8` (2 raised to the power of 3).
 
-## Task
+## Test Cases
 
 1- Test Case 1: Base raised to the power of 0
 
